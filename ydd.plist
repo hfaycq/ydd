@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://yundada.com/ydd.ipa</string>
+					<string>https://raw.githubusercontent.com/hfaycq/ydd/master/ydd.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://yundada.com/images/ydd114.png</string>
+					<string>https://raw.githubusercontent.com/hfaycq/ydd/master/ydd114.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://yundada.com/images/ydd57.png</string>
+					<string>https://raw.githubusercontent.com/hfaycq/ydd/master/ydd57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>eAbax.com.COMYDD</string>
+				<string>云大大网络</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
-				<string>software</string>
+				<string>企业营销</string>
 				<key>subtitle</key>
-				<string>YDD</string>
+				<string>云大大</string>
 				<key>title</key>
-				<string>YDD</string>
+				<string>云大大</string>
 			</dict>
 		</dict>
 	</array>
