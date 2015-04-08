@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://yundada.com/ydd.ipa</string>
+					<string>http://raw.githubusercontent.com/hfaycq/ydd/master/ydd.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://yundada.com/images/ydd114.png</string>
+					<string>http://raw.githubusercontent.com/hfaycq/ydd/master/ydd114.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://yundada.com/images/ydd57.png</string>
+					<string>http://raw.githubusercontent.com/hfaycq/ydd/master/ydd57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
