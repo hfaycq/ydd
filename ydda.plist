@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://119.254.69.163:9090/download/IOS/YDDBeta.ipa</string>
+					<string>http://119.254.69.163:9090/download/IOS/YDDa.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>企业营销好工具</string>
 				<key>title</key>
-				<string>云大大Beta</string>
+				<string>云大大(alpha)</string>
 			</dict>
 		</dict>
 	</array>
