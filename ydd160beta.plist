@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/hfaycq/ydd/master/YDDBeta.ipa</string>
+					<string>http://119.254.69.160:9090/download/IOS/YDDBeta.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/hfaycq/ydd/master/ydd57.png</string>
+					<string>http://119.254.69.160:9090/download/IOS/ydd57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/hfaycq/ydd/master/ydd114.png</string>
+					<string>http://119.254.69.160:9090/download/IOS/ydd114.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
